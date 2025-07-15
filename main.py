@@ -11,7 +11,7 @@ server = FastAPI()
 # Lista de origens permitidas (exemplo com frontend local e Vercel)
 origins = [
     "http://localhost:3000",  # seu Next.js local
-    "https://seuapp.vercel.app"  # versão deployada se quiser
+    "https://albion-mk-tfront.vercel.app"  # versão deployada se quiser
 ]
 
 server.add_middleware(
