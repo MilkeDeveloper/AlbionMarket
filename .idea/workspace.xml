@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8044a791-f640-4a0c-8aa6-069ce29648e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/albion_mkt_backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/api_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/general_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/search_by_city.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/search_by_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/search_by_quality.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/search_service.py" afterDir="false" />
+    <list default="true" id="8044a791-f640-4a0c-8aa6-069ce29648e3" name="Changes" comment="mvp finished&#10;add missing files">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +22,38 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MilkeDeveloper"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MilkeDeveloper/AlbionMarket",
+    "accountId": "8f8bcd80-3368-4041-9f05-f2c6003975ff"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -67,9 +88,31 @@
       <option name="presentableId" value="Default" />
       <updated>1752261931774</updated>
     </task>
+    <task id="LOCAL-00001" summary="mvp finished">
+      <option name="closed" value="true" />
+      <created>1752566752991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752566752991</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mvp finished&#10;add missing files">
+      <option name="closed" value="true" />
+      <created>1752566870459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752566870459</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="bf8b00f9-9d41-4078-b681-85378f6f198e" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -77,7 +120,17 @@
             <State />
           </value>
         </entry>
+        <entry key="bf8b00f9-9d41-4078-b681-85378f6f198e">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mvp finished" />
+    <MESSAGE value="mvp finished&#10;add missing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="mvp finished&#10;add missing files" />
   </component>
 </project>

@@ -1,0 +1,4 @@
+# dependencies
+uvicorn
+httpx
+fastapi

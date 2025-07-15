@@ -31,3 +31,7 @@ async def get_item_prices(item_id: str, tier: Optional[int] = Query(None), quali
 @server.get("/search")
 def search(q: str = Query(..., description="Nome parcial do item")):
     return search_items(q)
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("main:server", host="0.0.0.0", port=8000)
